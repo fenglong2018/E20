@@ -13,17 +13,17 @@ __Previews
 *.$$$
 
 #useless dirs
-Project\ Outputs
-Project\ Logs
-Project Outputs for*
-\347
+#..\ Outputs
+#..\ Logs
+#Project Outputs for*
+#..\347
 
 #History
-History
+#History
 
 #Exports, but not manual ones
-exports/*
-!exports/manual
+#exports/*
+#!exports/manual
 
 #Python stuff
 scripts/__pycache__/
@@ -33,6 +33,6 @@ scripts/__pycache__/
 
 
 
-/History/*
-/__Previews/*
-/Project Logs for project_file/*
+#/History/*
+#/__Previews/*
+#/Project Logs for project_file/*
